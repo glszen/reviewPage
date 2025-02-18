@@ -39,6 +39,8 @@ This is a simple template that can be extended and customized for various purpos
 ---
 
 **Note**: To further customize the design or add more features, you can refer to the [TailwindCSS Documentation](https://tailwindcss.com/docs).
+
+
 ![ö1](https://github.com/user-attachments/assets/78192f9a-e9d9-4f0b-8b36-9f77695375a2)
 
 ![ö2](https://github.com/user-attachments/assets/08163435-296d-4cb6-93e3-82e246839ab2)
